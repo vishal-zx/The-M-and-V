@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647369898665",
+    "project_id": "the-m-and-v",
+    "storage_bucket": "the-m-and-v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647369898665:android:bd0a22165183af48f747b8",
+        "android_client_info": {
+          "package_name": "com.example.the_modern_and_vintage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647369898665-27tmep88etskhi2hsph7m6ujb6almc7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGSNlo9deOICKE6O00WSAAB094H5GWZhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647369898665-27tmep88etskhi2hsph7m6ujb6almc7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
